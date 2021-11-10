@@ -1,6 +1,6 @@
 import React from 'react';
 import { Grow, Button, Typography, Paper, RadioGroup, Grid, FormControlLabel, TextField, Box, Container, makeStyles } from "@material-ui/core";
-import TakenNCLEX, { PassedNCLEX, NCLEXPassOrFail, NCLEXScheduled, NCLEXDate, TakenExitExam, ExitExamScheduled, ExitExamDate, ExitExamScores, ExitExamTest, NoExitExamScheduled } from "./nclexfunctions";
+import TakenNCLEX, { PassedNCLEX, NCLEXPassOrFail, NCLEXScheduled, NCLEXDate, TakenExitExam, ExitExamScheduled, ExitExamDate, ExitExamScores, ExitExamTest, NoExitExamScheduled } from "./Nclexfunctions";
 
 
 const useStyles = makeStyles((theme) => ({
